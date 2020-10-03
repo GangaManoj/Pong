@@ -1,3 +1,4 @@
+#step three
 #added Game Over message and instructions to continue
 
 import pygame
