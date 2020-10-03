@@ -1,3 +1,6 @@
+#step one
+#created display and moving ball
+
 import pygame
 
 pygame.init()  #imports all the pygame modules
