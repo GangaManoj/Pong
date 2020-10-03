@@ -1,3 +1,5 @@
+#added Game Over message and instructions to continue
+
 import pygame
 
 pygame.init()  #imports all the pygame modules
