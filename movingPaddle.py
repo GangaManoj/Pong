@@ -1,3 +1,5 @@
+#added a moving paddle and functions to deal with paddle collisions
+
 import pygame
 
 pygame.init()  #imports all the pygame modules
